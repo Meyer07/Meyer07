@@ -2,7 +2,7 @@
 
 My name is Sam Meyer
 
-I am a college student at the University of Wisconsin-Milwaukee Studying Computer Science and pursuing a certification in Cyber Security
+I am a college student at the University of Wisconsin-Milwaukee Studying Computer Science and pursuing a certification in Cyber Security.
 My coding journy has been pretty tough for me as I have really only been coding for two years now and have really gotten proficient in it
 in the past year or so, however with each process learned and project completed I'm finding a deeper love and connection with coding
 
